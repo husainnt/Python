@@ -3,7 +3,7 @@
 magicians=['alice', 'david', 'carolina']
 for m in magicians:
     print(m)
-#More things can alsi be printed using for loops
+#More things can also be printed using for loops
 for m in magicians:
     print(f"{m.title()},that was a great trick")
     print(f"i cant wait to see your next trick, {m.title()}")
