@@ -8,3 +8,7 @@ print(players[2:])
 #to print kth last list of elements, use a -ve index
 #to print last 3 elements, we would use print(list_name[-3:])
 print("Last 3 elements from the list: ", players[-3:])
+#Looping through a list
+print("Here are the first 3 members of my team: ")
+for p in players[:3]:
+    print(p.title()) #prints players from index 0,1,2
