@@ -5,15 +5,15 @@ Each folder represents a specific chapter or topic, containing its respective co
 
 ## 📚 Table of Contents
 
-- [Chapter 1 – Variables and Data Types](./python/Basic)
-- [Chapter 2 – Intro to Lists](./python/Lists)
-- [Chapter 3 – Working with Lists and Tuples](./python/Working_With_Lists)
-- [Chapter 4 – IF statements](./python/If-statements)
-- [Chapter 5 – Dictionaries](./python/Dictionaries)
-- [Chapter 6 – User Input and while Loops](./python/Chapter_6)
-- [Chapter 7 – Functions](./python/Chapter_7)
-- [Chapter 8 – Classes](./python/Chapter_8)
-- [Projects](./python/Projects)
+- [Chapter 1 – Variables and Data Types](./Basic)
+- [Chapter 2 – Intro to Lists](./Lists)
+- [Chapter 3 – Working with Lists and Tuples](./Working_With_Lists)
+- [Chapter 4 – IF statements](./If-statements)
+- [Chapter 5 – Dictionaries](./Dictionaries)
+- [Chapter 6 – User Input and while Loops](./Chapter_6)
+- [Chapter 7 – Functions](./Chapter_7)
+- [Chapter 8 – Classes](./Chapter_8)
+- [Projects](./Projects)
 
 ## 📌 Notes
 
