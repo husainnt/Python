@@ -10,8 +10,8 @@ Each folder represents a specific chapter or topic, containing its respective co
 - [Chapter 3 – Working with Lists and Tuples](./Python/Working_With_Lists)
 - [Chapter 4 – IF statements](./Python/If-statements)
 - [Chapter 5 – Dictionaries](./Python/Dictionaries)
-- [Chapter 6 – User Input and while Loops](./Pyhton/User Input and while Loops)
-- [Chapter 7 – Functions](./Python/Chapter_7)
+- [Chapter 6 – User Input and while Loops](./Python/User_Input_and_while_Loops)
+- [Chapter 7 – Functions](./Python/Functions)
 - [Chapter 8 – Classes](./Python/Chapter_8)
 - [Projects](./Python/Projects)
 
