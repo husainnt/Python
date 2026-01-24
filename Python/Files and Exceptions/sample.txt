@@ -1,0 +1,5 @@
+In python you can create variables and assign data to them to perform different operations
+In pyhton you can store set of strings or integers in lists
+In python you can create functions to perfrorm separate tasks
+In python you can work with if-else statements and while loops
+In python we can read a file or write to it
