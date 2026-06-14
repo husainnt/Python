@@ -1,4 +1,4 @@
-This repository contains the code I wrote while learning **Python**, along with the projects I built during the process.  
+This repository contains the code I wrote while learning **Python**
 Each folder represents a specific chapter or topic, containing its respective code and exercises.
 
 ## 📂 Repository Structure
